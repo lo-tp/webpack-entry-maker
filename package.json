@@ -1,0 +1,17 @@
+{
+  "name": "webpack-entry-maker",
+  "version": "1.0.0",
+  "description": "Make webpack entries from a directory in batch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf ./dist && webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "webpack",
+    "entry",
+    "batch"
+  ],
+  "author": "lotp (http://blog.lotp.xyz/)",
+  "license": "MIT"
+}
