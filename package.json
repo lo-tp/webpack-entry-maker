@@ -1,6 +1,6 @@
 {
   "name": "webpack-entry-maker",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Make webpack entries from a directory in batch",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository":{
     "type":"git",
-    "url":"git+https://github.com/lo-tp/webpack-entry-make://github.com/lo-tp/webpack-entry-maker"
+    "url":"git+https://github.com/lo-tp/webpack-entry-maker"
       },
   "keywords": [
     "webpack",
