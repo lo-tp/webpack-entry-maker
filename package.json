@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rm -rf ./dist && webpack --config webpack.config.js"
   },
+  "repository":{
+    "type":"git",
+    "url":"git+https://github.com/lo-tp/webpack-entry-make://github.com/lo-tp/webpack-entry-maker"
+      },
   "keywords": [
     "webpack",
     "entry",
